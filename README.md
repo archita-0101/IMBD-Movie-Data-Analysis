@@ -25,11 +25,9 @@ This project is based on the IMDB Movie Dataset and builds upon an existing open
 These additions provide deeper insights into the data and demonstrate various visualization and aggregation techniques in Python.
 
 📂 What You’ll Find in This Repo
-IMDB_Minor_Project_Enhanced_Complete.ipynb: My full notebook with all custom code additions.
+My Colab notebook link
 
-/screenshots/: A folder with key screenshots of the code and visual outputs.
-
-README.md: (This file) Overview and highlights of the project.
+Screenshots of the code and outputs
 
 🚀 Tools & Libraries Used
 Python
