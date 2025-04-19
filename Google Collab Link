@@ -1,0 +1,7 @@
+Welcome to my Google Colab notebook for the IMDB Movie Data Analysis Minor Project.
+This notebook is an enhanced version of the base project provided, where I’ve added multiple new insights and visualizations using Python, Pandas, Matplotlib, and Seaborn.
+It explores the IMDB dataset to uncover trends in movie ratings, genres, revenues, directors, and more — giving hands-on experience with real-world data analysis.
+
+Run the cells below to explore the analysis, view the visual outputs, and see how Python can turn raw data into insights!
+
+https://colab.research.google.com/drive/1RB1BIxL8o_9DOQe1RRAtm96s50I7L2l6?usp=sharing
